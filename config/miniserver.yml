@@ -1,6 +1,6 @@
 
 server:
-  port: 8109
+  port: 8108
 spring:
   application:
     name: miniserver
