@@ -1,0 +1,12 @@
+
+server:
+  port: 8109
+spring:
+  application:
+    name: miniserver
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh, health, info
